@@ -1,0 +1,29 @@
+{
+  "usr_eth_9921": {
+    "userId": "usr_eth_9921",
+    "phone": "0910961881",
+    "fullName": "ማክቤል ማረጉ",
+    "walletBalance": 200,
+    "ticketsCount": 70,
+    "totalWon": 0,
+    "language": "am"
+  },
+  "8759844855": {
+    "userId": "8759844855",
+    "phone": "0910961881",
+    "fullName": "ማክቤል ማረጉ",
+    "walletBalance": 200,
+    "ticketsCount": 0,
+    "totalWon": 0,
+    "language": "am"
+  },
+  "5588110290": {
+    "userId": "5588110290",
+    "phone": "0910961881",
+    "fullName": "ማክቤል ማረጉ",
+    "walletBalance": 200,
+    "ticketsCount": 0,
+    "totalWon": 0,
+    "language": "am"
+  }
+}
